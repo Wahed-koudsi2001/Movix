@@ -6,18 +6,18 @@ Live Demo: https://movixsite.netlify.app/
 
 I built this website using React.js, The main libraries I have used,
 
-1_ React Router 6.4v
+1_ React Router 6.4v.
 
-2_ React query
+2_ React query.
 
-3_ Tailwind CSS
+3_ Tailwind CSS.
 
-4_ React lazy load
+4_ React lazy load.
 
-5_ React select
+5_ React select.
 
-6_ React glider
+6_ React glider.
 
-7_ React loader spinner
+7_ React loader spinner.
 
-8_ Axios
+8_ Axios.
